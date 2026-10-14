@@ -1,0 +1,13 @@
+package bytebank_api;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BytebankApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
